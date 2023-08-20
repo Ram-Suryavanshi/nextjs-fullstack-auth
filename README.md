@@ -42,4 +42,8 @@ For forgot password feature.
 ## your completed assignments
 
 - Add your repo link here
-- 
+
+### Project: [promptin.online](https://promptin.online)
+- I have created this website inspired by his video. On this website, I added all things which he taught us with my idea of sharing AI prompts. I hope you all like this website and add & share your favorite effective prompts with us.
+- I would like to thanks Hitesh for showing the flow of user verification via email and also for sending the mail for resetting password and confirmations.
+- I'm a big fan of Hitesh, He explains every term/concept very well.
